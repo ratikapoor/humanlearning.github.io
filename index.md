@@ -1,4 +1,4 @@
-![Image of fast.ai logo](images/images.jpg)
+![Image of fast.ai logo](images/pic.jpg)
 
 ## Human Learning
 
