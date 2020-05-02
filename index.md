@@ -1,6 +1,5 @@
 ![Image of fast.ai logo](images/pic.jpg)
 
-## Human Learning
+## https://github.com/ratikapoor/humanlearning.github.io/blob/master/_posts/2020-04-26-pca.md
 
-## Training the human brain to comprehend Machine Learning
 
