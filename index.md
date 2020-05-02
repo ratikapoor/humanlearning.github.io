@@ -1,4 +1,4 @@
-![Image of fast.ai logo](images/ai-breakthrough-artificial-neural-networks-1440x955.jpg)
+![Image of fast.ai logo](images/images.jpg)
 
 ## Human Learning
 
